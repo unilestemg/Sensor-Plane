@@ -1,0 +1,6 @@
+c:\users\fabio\documents\visual studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\bin\Debug\CompiladorDeChaves.exe.config
+C:\Users\fabio\Documents\Visual Studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\bin\Debug\CompiladorDeChaves.exe
+C:\Users\fabio\Documents\Visual Studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\bin\Debug\CompiladorDeChaves.pdb
+C:\Users\fabio\Documents\Visual Studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\obj\Debug\CompiladorDeChaves.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Documents\Visual Studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\obj\Debug\CompiladorDeChaves.exe
+C:\Users\fabio\Documents\Visual Studio 2015\Projects\CompiladorDeChaves\CompiladorDeChaves\obj\Debug\CompiladorDeChaves.pdb
